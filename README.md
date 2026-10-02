@@ -51,3 +51,4 @@ To run the few basic provided tests, use the following command: `cargo test -- -
 ## License
 
 Licensed under the MIT license ([LICENSE](./LICENSE)).
+.
